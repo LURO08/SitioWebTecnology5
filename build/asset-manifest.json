@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SitioWebTecnology4/build/static/css/main.928a2466.css",
+    "main.js": "/SitioWebTecnology4/build/static/js/main.a2e12bfb.js",
+    "static/js/213.e672fa8b.chunk.js": "/SitioWebTecnology4/build/static/js/213.e672fa8b.chunk.js",
+    "static/js/455.78a41ad3.chunk.js": "/SitioWebTecnology4/build/static/js/455.78a41ad3.chunk.js",
+    "index.html": "/SitioWebTecnology4/build/index.html",
+    "main.928a2466.css.map": "/SitioWebTecnology4/build/static/css/main.928a2466.css.map",
+    "main.a2e12bfb.js.map": "/SitioWebTecnology4/build/static/js/main.a2e12bfb.js.map",
+    "213.e672fa8b.chunk.js.map": "/SitioWebTecnology4/build/static/js/213.e672fa8b.chunk.js.map",
+    "455.78a41ad3.chunk.js.map": "/SitioWebTecnology4/build/static/js/455.78a41ad3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.928a2466.css",
+    "static/js/main.a2e12bfb.js"
+  ]
+}
