@@ -23,7 +23,7 @@ import Ventas from './components/GestionVentas/gestionventas';
 function App() {
   return (
     <AuthProvider>
-      <Router basename="/SitioWebTecnology4/build">
+      <Router basename="/SitioWebTecnology5/build">
         <Header />
         <main>
           <Routes>
